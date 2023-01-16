@@ -1,0 +1,10 @@
+# train and val datasets (image directory or *.txt file with image paths)
+train: /home/train
+val: /home/test
+test: /home/test
+
+# number of classes
+nc: 5
+
+# class names
+names: ["text", "title", "list", "table", "figure"]
