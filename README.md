@@ -36,7 +36,7 @@ Test set consisted of 182708 random samples from full dataset.
 | table | 65700 | 0.974 | 0.963 | 0.964 | 0.952 |
 | figure | 63300 | 0.913 | 0.876 | 0.861 | 0.771 |
 
-You can use the resulting model as a good pretrain for many different document detection tasks.
+You can use the [resulting weights](https://drive.google.com/file/d/1IZqus8mphGu54nOSsqgOJ2Igj70Ex_dN/view?usp=share_link) as a good pretrain for many different document detection tasks.
 
 ## Changes added to the default [*ScaledYOLOv4*](https://github.com/WongKinYiu/ScaledYOLOv4/tree/yolov4-large)
 
