@@ -3,7 +3,7 @@
 This repository is a version of the [ScaledYOLOv4](https://github.com/WongKinYiu/ScaledYOLOv4/tree/yolov4-large) repository specially enhanced for documents \(like scientific papers\) elements detection.
 
 <p align="center">
-    <img src="./data/examples.png", width="700px">
+    <img src="./data/examples.png", width="400px">
 </p>
 
 ## Classes
